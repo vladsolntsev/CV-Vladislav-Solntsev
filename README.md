@@ -14,11 +14,11 @@ Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui p
 >Utiliser la méthode SCRUM
 
 *2018 - 2020*: **Master Etudes Slaves** à l'[Université Bordeaux Montaigne](https://www.u-bordeaux-montaigne.fr/fr/index.html).
->Domaine d’études : Langues, Géopolitique
+>Domaine d’études : Langues, Géopolitique  
 >Mémoire de Master sur l' analyse du discours du conflit syrien dans les médias français et russes depuis 2014
 
 *2016-2017* : Année en **Erasmus** pour la Licence 3 à l'[Université de Bristol](https://www.bristol.ac.uk/)  au Royaume-Uni.
->Section anglaise et russe, littérature et traduction.
+>Section anglaise et russe, littérature et traduction.  
 >Participation à des représentation théatrales de l'université
 
 *2014-2017* : **Licence LLCER Trilangue Anglais, Russe et Espagnol** à l'[Université d'Aix-Marseille](https://www.univ-amu.fr/).
@@ -26,15 +26,15 @@ Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui p
 
 ## Expérience professionnelle
 *Juin 2018 - Mars 2020* : **Réceptionniste** à [Mer & Golf](https://www.meretgolf.com/)  à Bordeaux
->Responsable shift matin ou soir
->Utilisation de logiciel de gestion hôtelière, prise de réservations et facturation, débiteurs.
->Relation client, check-in et check-out. 
+>Responsable shift matin ou soir  
+>Utilisation de logiciel de gestion hôtelière, prise de réservations et facturation, débiteurs.  
+>Relation client, check-in et check-out 
 
 
 *Eté 2016 et 2017* : **Agent de services** à l'[Aéroport de Nice Côte d'Azur](https://www.nice.aeroport.fr/)  pour [Safe Bag](https://www.safe-bag.com/fr/airports/nce/) au Centre des Services 
- > Vente de produits Safe Bag
- > Gestion des objets trouvés de l'Aéroport
- > Relation client avec touristes étrangers.
+ > Vente de produits Safe Bag  
+ > Gestion des objets trouvés de l'Aéroport   
+ > Relation client avec touristes étrangers
  
 ## Hobbies
 
