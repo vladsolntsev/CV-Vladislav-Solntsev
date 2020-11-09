@@ -13,12 +13,12 @@ Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui p
 >Utiliser la méthode SCRUM
 
 *2018 - 2020*: **Master Etudes Slaves** à l'[Université Bordeaux Montaigne](https://www.u-bordeaux-montaigne.fr/fr/index.html).
->Domaine d’études : Langues, Géopolitique
->Mémoire de Master sur l' analyse du discours du conflit syrien dans les médias français et russes depuis 2014
+> Domaine d’études : Langues, Géopolitique
+> Mémoire de Master sur l' analyse du discours du conflit syrien dans les médias français et russes depuis 2014
 
 *2016-2017* : Année en **Erasmus** pour la Licence 3 à l'[Université de Bristol](https://www.bristol.ac.uk/)  au Royaume-Uni.
->Section anglaise et russe, littérature et traduction
->Participation à des représentation théatrales de l'université
+> Section anglaise et russe, littérature et traduction
+> Participation à des représentation théatrales de l'université
 
 *2014-2017* : **Licence LLCER Trilangue Anglais, Russe et Espagnol** à l'[Université d'Aix-Marseille](https://www.univ-amu.fr/).
 >Domaine d’études : Langues et littérature, traductologie et civilisations étrangères
