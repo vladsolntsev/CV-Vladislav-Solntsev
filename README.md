@@ -9,7 +9,7 @@ Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui p
 ## Formation
 *Septembre 2020 - Février 2021* : **Formation de développeur web** à la [Wild Code School](www.wildcodeschool.com) de Bordeaux.
 >Concevoir une application web  
->HTML/CSS/JS/PHP/MVC/POO/Twig/Symphony  
+>HTML / CSS / JS / PHP / MVC / POO / Twig / Symphony  
 >Comprendre comment intégrer une interface utilisateur  
 >Maîtriser le développement d'une application  
 >Utiliser la méthode SCRUM
