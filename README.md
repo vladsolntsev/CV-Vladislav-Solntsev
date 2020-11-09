@@ -18,7 +18,7 @@ Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui p
 
 *2016-2017* : Année en **Erasmus** pour la Licence 3 à l'[Université de Bristol](https://www.bristol.ac.uk/)  au Royaume-Uni.
 > Section anglaise et russe, littérature et traduction
-> Participation à des représentation théatrales de l'université
+Participation à des représentation théatrales de l'université
 
 *2014-2017* : **Licence LLCER Trilangue Anglais, Russe et Espagnol** à l'[Université d'Aix-Marseille](https://www.univ-amu.fr/).
 >Domaine d’études : Langues et littérature, traductologie et civilisations étrangères
