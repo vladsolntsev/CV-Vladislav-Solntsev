@@ -1,8 +1,6 @@
 
 # CV Vladislav Solntsev
 
-![alt text](https://media-exp1.licdn.com/dms/image/C5603AQEFgQjJjrjN_Q/profile-displayphoto-shrink_200_200/0?e=1610582400&v=beta&t=lwm3PZG4wsNLObN6k1ArzULnTrhS0a_StxHApVR4KBI "Photo CV")
-
 ## Présentation
 Développeur web orienté PHP/Symphony, je suis à la recherche d'un stage qui permettrait d'avoir une première expérience professionelle dans le domaine du web.
 
